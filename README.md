@@ -16,3 +16,12 @@ when salvaged without the presence of this mod, will instantly create a "Stable 
 Happy buildiiiing :D
 
 Hint: If you construct something while in orbit (of ANYTHING), then the built object is moving, IN, ORBIIIIIIIT ^_^ :D YEYYYYYYY
+
+
+
+Libraries used for compiling:
+- Slick2D (jnlp.jar, jogg-0.0.7.jar, jorbis-0.0.15.jar, lwjgl.jar, lwjgl_util.jar, slick.jar)
+- StarfarerAPI (starfarer.api.jar, starfarer.api.zip)
+Not all of those are needed, I'm just recording them as hints.
+
+(The images are not checked for copyrights... emmm... shhhh.. xD. It's in the "TODO List" to find a right image.)
