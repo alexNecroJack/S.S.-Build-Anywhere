@@ -1,0 +1,20 @@
+{
+	"ba_days_to_wait_in_leash_station" : 30,
+	"ba_days_to_wait_in_leash_comm_relay_makeshift" : 2,
+	"ba_days_to_wait_in_leash_sensor_array_makeshift" : 2,
+	"ba_days_to_wait_in_leash_nav_buoy_makeshift" : 2,
+	
+	"ba_hull_mod_base_value" : 10,
+	"ba_hull_mod_built_in_multiplier" : 1.50,
+	"ba_hull_mod_fighter_wing_multiplier" : 0.1,
+	"ba_hull_mod_frigate_multiplier" : 0.2,
+	"ba_hull_mod_carrier_multiplier" : 0.5,
+	"ba_hull_mod_destroyer_multiplier" : 0.8,
+	"ba_hull_mod_cruiser_multiplier" : 1,
+	"ba_hull_mod_capital_multiplier" : 1.5,
+	
+	"ba_hull_mod_on_fighters_and_carrier_bonus_multiplier" : 1.10,
+	
+	"ba_construction_detectability_flat" : 500,
+	"ba_construction_detectability_multiplier" : 1
+}

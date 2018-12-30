@@ -1,0 +1,11 @@
+{
+    "id":"build_anywhere",
+    "name":"Build Anywhere",
+    "author":"Necro (368415)",
+    "version":"R.C. 001",
+    "description":"Build anything, ANYWHERE! :D",
+    "gameVersion":"0.9a-RC10",
+    "totalConversion":false,
+    "jars":["jars/Build_Anywhere.jar"],
+    "modPlugin":"build_anywhere.plugins.BuildAnywhereModPlugin"
+}
