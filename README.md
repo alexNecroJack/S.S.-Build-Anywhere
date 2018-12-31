@@ -39,3 +39,4 @@ Useful resources/tutorials:<br/>
 <a href="http://fractalsoftworks.com/forum/index.php?topic=13279.msg223716">Learning to mod</a><br/>
 <a href="http://fractalsoftworks.com/forum/index.php?topic=3173.msg45967">Tutorial: Setting up NetBeans for Starfarer Mods</a><br/>
 <a href="http://fractalsoftworks.com/starfarer.api/index.html?overview-summary.html">Starsector Classes Reference</a><br/>
+Everything else was found out by reading the Javadocs of methods/classes/etc through the Netbeans, and searching in Nexerelin ;D
