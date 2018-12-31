@@ -7,15 +7,17 @@ No need for stable locations any more!<br/>
 You do this by activating the user ability.<br/>
 The mod ensures the player has this ability on every game load (just for safety reasons :D).<br/>
 <br/>
-I can't see a reason why anyone would have a problem adding or removing this mod midplay (== With saved game).<br/>
+Hint: If you construct something while in orbit (of ANYTHING), then the built object is moving, IN, ORBIIIIIIIT ^_^ :D YEYYYYYYY<br/>
+<br/>
+<br/>
+Can it be used with an existing save?<br/>
+I can't see a reason why anyone would have a problem adding or removing this mod midplay.<br/>
 The only thing is:<br/>
 Removing the mod midplay, would mean that any makeshift object built anywhere,<br/>
 when salvaged without the presence of this mod, will instantly create a "Stable location" in  it's place xD...<br/>
 (While if deconstructed WITH the mod, no stable location is created)<br/>
 <br/>
 Happy buildiiiing :D<br/>
-<br/>
-Hint: If you construct something while in orbit (of ANYTHING), then the built object is moving, IN, ORBIIIIIIIT ^_^ :D YEYYYYYYY<br/>
 <br/>
 <br/>
 <br/>
