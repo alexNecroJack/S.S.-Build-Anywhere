@@ -17,6 +17,9 @@ Removing the mod midplay, would mean that any makeshift object built anywhere,<b
 when salvaged without the presence of this mod, will instantly create a "Stable location" in  it's place xD...<br/>
 (While if deconstructed WITH the mod, no stable location is created)<br/>
 <br/>
+To install:<br/>
+Copy the <a href="https://github.com/alexNecroJack/S.S.-Build-Anywhere/tree/master/Build%20Anywhere">"Build Anywhere" folder</a> in your mods folder.<br/>
+<br/>
 Happy buildiiiing :D<br/>
 <br/>
 <br/>
