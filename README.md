@@ -25,3 +25,10 @@ Libraries used for compiling:
 Not all of those are needed, I'm just recording them as hints.
 
 (The images are not checked for copyrights... emmm... shhhh.. xD. It's in the "TODO List" to find a right image.)
+
+
+
+Structure:
+Folder "src" has the source for the mod.
+Folder "Graphics" has uneditted/raw graphics.
+Folder "Build Anywhere" is the mod folder as it is to be dropped in the game folder "mods".
