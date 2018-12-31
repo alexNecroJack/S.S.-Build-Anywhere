@@ -54,10 +54,10 @@ public class BuildSomethingDialog implements InteractionDialogPlugin
 		options.clearOptions();
 		
 		dialog.setPromptText("You decide to:");
-		options.addOption("Build a mining station", MenuOption.BUILD_MINING_STATION);
-		options.addOption("Build a research station", MenuOption.BUILD_RESEARCH_STATION);
-		options.addOption("Build a station from industry", MenuOption.BUILD_STATION_FROM_INDUSTRY);
-		options.addOption("Build a makeshift station", MenuOption.BUILD_MAAKESHIFT_STATION);
+		//options.addOption("Build a mining station", MenuOption.BUILD_MINING_STATION);
+		//options.addOption("Build a research station", MenuOption.BUILD_RESEARCH_STATION);
+		//options.addOption("Build a station from industry", MenuOption.BUILD_STATION_FROM_INDUSTRY);
+		//options.addOption("Build a makeshift station", MenuOption.BUILD_MAAKESHIFT_STATION);
 		options.addOption("Build a makeshift communication relay", MenuOption.BUILD_RELAY);
 		options.addOption("Build a makeshift sensor array", MenuOption.BUILD_SENSOR);
 		options.addOption("Build a makeshift nav buoy", MenuOption.BUILD_NAV_BOY);
