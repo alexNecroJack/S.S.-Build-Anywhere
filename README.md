@@ -8,7 +8,7 @@ You do this by activating the user ability.<br/>
 The mod ensures the player has this ability on every game load (just for safety reasons :D).<br/>
 <br/>
 I can't see a reason why anyone would have a problem adding or removing this mod midplay (== With saved game).<br/>
-The only this is:<br/>
+The only thing is:<br/>
 Removing the mod midplay, would mean that any makeshift object built anywhere,<br/>
 when salvaged without the presence of this mod, will instantly create a "Stable location" in  it's place xD...<br/>
 (While if deconstructed WITH the mod, no stable location is created)<br/>
